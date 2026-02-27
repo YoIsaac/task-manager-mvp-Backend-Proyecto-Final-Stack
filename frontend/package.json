@@ -1,0 +1,11 @@
+{
+  "name": "task-manager-frontend",
+  "version": "1.0.0",
+  "description": "Frontend básico para aplicación full stack con JWT",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo \"Frontend listo (abrir index.html en el navegador)\""
+  },
+  "author": "Isaac",
+  "license": "ISC"
+}
